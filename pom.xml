@@ -42,7 +42,7 @@
       <id>myapp-snapshot</id>
       <name>myapp-snapshot</name>
       <url>http://localhost:8081/repository/myapp-snapshot/</url>
-      <layout>legacy</layout>
+      <layout>default</layout>
     </snapshotRepository>
   </distributionManagement>
 </project>
